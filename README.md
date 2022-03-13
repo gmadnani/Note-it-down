@@ -44,5 +44,7 @@ deployed on heroku (link under website)
 ## Website
 https://github.com/gmadnani/Note-it-down
 
+https://note-taker-56789.herokuapp.com/
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
